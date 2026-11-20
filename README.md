@@ -33,17 +33,29 @@ git clone https://github.com/imansabeq/black-bishop-hunt.git
 cd black-bishop-hunt
 pip install -r requirements.txt
 python main.py
+```
 ## 🎥 Demo & Testing & Edge-Case Validation:
 King Protection Constraint (Before vs After)
 Screen Recording
-[chess.zip](https://github.com/user-attachments/files/35179173/chess.zip)
+################################################
+https://github.com/user-attachments/assets/03aa453a-9667-45db-b3c0-eaedf1d66bac
 
+
+################################################
 
 King Protection Fix (Before vs After)
-<img width="1333" height="2000" alt="before" src="https://github.com/user-attachments/assets/965a987d-d1be-482b-a9a4-a90a9366ed65" />
-<img width="1333" height="2000" alt="after" src="https://github.com/user-attachments/assets/db208ce7-5e1d-497f-9d5e-737adbfded9c" />
+<img width="420" alt="before" src="https://github.com/user-attachments/assets/965a987d-d1be-482b-a9a4-a90a9366ed65" />
+<img width="420" alt="after" src="https://github.com/user-attachments/assets/db208ce7-5e1d-497f-9d5e-737adbfded9c" />
 
 <img width="876" height="900" alt="Screenshot 2026-11-20 172250" src="https://github.com/user-attachments/assets/3a2d6bb2-a7dc-4a62-b574-fd578912198a" />
 <img width="875" height="913" alt="Screenshot 2026-11-20 171922" src="https://github.com/user-attachments/assets/6a03c28b-dd02-424d-85c7-6d403549425f" />
 <img width="822" height="862" alt="Screenshot 2026-11-20 171824" src="https://github.com/user-attachments/assets/4f3621d7-fc7b-439b-bec2-2e7e41e3d918" />
 <img width="897" height="811" alt="Screenshot 2026-11-20 171015" src="https://github.com/user-attachments/assets/3cd447c7-7194-4db3-be45-30237f5b50c3" />
+
+
+---
+
+## 👩‍💻 Author
+**Iman**
+- GitHub: [@imansabeq](https://github.com/imansabeq)
+- LinkedIn: www.linkedin.com/in/imansabeq
