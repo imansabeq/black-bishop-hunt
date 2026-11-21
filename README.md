@@ -52,7 +52,9 @@ https://github.com/user-attachments/assets/03aa453a-9667-45db-b3c0-eaedf1d66bac
 <img width="876" height="900" alt="Screenshot 2026-11-20 172250" src="https://github.com/user-attachments/assets/3a2d6bb2-a7dc-4a62-b574-fd578912198a" />
 
 
-
+## Author
+Iman, Tech graduate focused on DevOps and Cloud Engineering.
+www.linkedin.com/in/imansabeq
 
 
 ---
