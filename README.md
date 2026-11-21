@@ -67,9 +67,3 @@ Python · Pygame · `collections.deque` (BFS)
 
 ---
 
-## 👩‍💻 Author
-
-**Iman**
-
-- GitHub: [@imansabeq](https://github.com/imansabeq)
-- LinkedIn: [linkedin.com/in/imansabeq](https://www.linkedin.com/in/imansabeq)
