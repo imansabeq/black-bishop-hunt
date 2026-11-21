@@ -56,8 +56,3 @@ https://github.com/user-attachments/assets/03aa453a-9667-45db-b3c0-eaedf1d66bac
 
 
 ---
-
-## 👩‍💻 Author
-**Iman**
-- GitHub: [@imansabeq](https://github.com/imansabeq)
-- LinkedIn: www.linkedin.com/in/imansabeq
